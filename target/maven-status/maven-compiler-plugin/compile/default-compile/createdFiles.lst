@@ -1,0 +1,16 @@
+br\edu\ifrs\restinga\rose\vagasweb\modelo\Empresa.class
+br\edu\ifrs\restinga\rose\vagasweb\dao\UsuarioDAO.class
+br\edu\ifrs\restinga\rose\vagasweb\modelo\Vaga.class
+br\edu\ifrs\restinga\rose\vagasweb\controle\Candidatos.class
+br\edu\ifrs\restinga\rose\vagasweb\erro\NaoEncontrado.class
+br\edu\ifrs\restinga\rose\vagasweb\dao\VagaDAO.class
+br\edu\ifrs\restinga\rose\vagasweb\VagaswebApplication.class
+br\edu\ifrs\restinga\rose\vagasweb\modelo\Usuario.class
+br\edu\ifrs\restinga\rose\vagasweb\dao\CandidatoDAO.class
+br\edu\ifrs\restinga\rose\vagasweb\controle\Usuarios.class
+br\edu\ifrs\restinga\rose\vagasweb\erro\RequisicaoInvalida.class
+br\edu\ifrs\restinga\rose\vagasweb\modelo\Candidato.class
+br\edu\ifrs\restinga\rose\vagasweb\controle\Vagas.class
+br\edu\ifrs\restinga\rose\vagasweb\dao\EmpresaDAO.class
+br\edu\ifrs\restinga\rose\vagasweb\erro\Proibido.class
+br\edu\ifrs\restinga\rose\vagasweb\controle\Empresas.class
